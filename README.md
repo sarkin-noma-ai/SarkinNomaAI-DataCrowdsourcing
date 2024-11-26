@@ -43,4 +43,4 @@ The repository is organized as follows:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/SarkinNomaAI-DataCrowdsourcing.git
+   git clone https://github.com/sarkin-noma-ai/SarkinNomaAI-DataCrowdsourcing.git
